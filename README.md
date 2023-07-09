@@ -2,7 +2,7 @@
 
 ### 🌱 I am passionate about solving real life problems with code
 ### ⚡ Fun fact: I love playing Football Manager [<img src="https://raw.githubusercontent.com/donpelumos/donpelumos/main/fm.png" align="center" width="25"/>]()
-### 📫 You can reach me via <a href=https://www.linkedin.com/in/poyefeso target=_BLANK>LinkedIn</a>
+### 📫 You can reach me via <a href="https://www.linkedin.com/in/poyefeso" target="_blank">LinkedIn</a>
 
 ###
 
